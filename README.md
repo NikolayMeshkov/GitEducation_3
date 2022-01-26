@@ -1,2 +1,4 @@
-## GitEducation_3
-#Тренировка с Git'ом
+# GitEducation_3
+## Тренировка с Git'ом
+
+
